@@ -14,6 +14,14 @@ This is the public customer download channel. The application source repository 
 
 Windows customers should install the official signed package from the [Microsoft Store](https://apps.microsoft.com/detail/9nh4p6jbs174?hl=en-US&gl=US).
 
+## Retail flyers
+
+Print-ready product materials for sharing with customers, schools, and teams:
+
+- [DaemonCore Academy 8.0 retail flyer](retail/DaemonCore-Academy-8.0-Retail-Flyer.pdf)
+- [DaemonCore FieldOps Pro 8.0 retail flyer](retail/DaemonCore-FieldOps-Pro-8.0-Retail-Flyer.pdf)
+- [DaemonCore 8.0 retail product sheet](retail/DaemonCore-8.0-Retail-Product-Sheet.pdf)
+
 ## Linux installation
 
 See the [Linux installation and support guide](docs/LINUX.md). Verify the downloaded checksum before launching an installer.

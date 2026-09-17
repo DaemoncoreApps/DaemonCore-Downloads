@@ -1,20 +1,20 @@
 # DaemonCore Academy on Linux
 
-DaemonCore Academy 8.0.3 supports x64 Ubuntu and Debian-family desktop systems through an AppImage and a Debian package. Academy lessons work offline. Live ranges require Docker Engine with Compose v2.
+DaemonCore Academy 9.0.3 supports x64 Ubuntu and Debian-family desktop systems through an AppImage and a Debian package. Academy lessons work offline. Live ranges require Docker Engine with Compose v2. Linux Academy packages remain free.
 
 ## AppImage
 
 ```shell
-chmod +x DaemonCore-Academy-8.0.3.AppImage
-sha256sum DaemonCore-Academy-8.0.3.AppImage
-./DaemonCore-Academy-8.0.3.AppImage
+chmod +x DaemonCore-Academy-9.0.3.AppImage
+sha256sum DaemonCore-Academy-9.0.3.AppImage
+./DaemonCore-Academy-9.0.3.AppImage
 ```
 
 ## Debian package
 
 ```shell
-sha256sum DaemonCore-Academy-8.0.3.deb
-sudo apt install ./DaemonCore-Academy-8.0.3.deb
+sha256sum DaemonCore-Academy-9.0.3.deb
+sudo apt install ./DaemonCore-Academy-9.0.3.deb
 ```
 
 Compare the resulting hash with `SHA256SUMS-linux.txt` from the same release before running the app.

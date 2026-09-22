@@ -1,6 +1,6 @@
-# DaemonCore Academy 9.0.4 public release guide
+# DaemonCore Academy 9.0.5 public release guide
 
-This is the customer-facing installation and support path for DaemonCore Academy 9.0.4. The official Windows edition is a $39 one-time Microsoft Store purchase with ongoing Academy content updates. Linux packages remain free. FieldOps is included with Academy; Cloud Classroom educator services remain separate.
+This is the customer-facing installation and support path for DaemonCore Academy 9.0.5. The official Windows edition is a $39 one-time Microsoft Store purchase with ongoing Academy content updates. Linux packages remain free. FieldOps is included with Academy; Cloud Classroom educator services remain separate.
 
 ## Choose an install channel
 

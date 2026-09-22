@@ -1,24 +1,24 @@
 # DaemonCore Academy on Linux
 
-DaemonCore Academy 9.0.4 supports x64 Ubuntu and Debian-family desktop systems through an AppImage and a Debian package. Linux shares the Academy curriculum, Mission OS, sealed Docker ranges, FieldOps workspace, local records, evidence exports, and platform contract with Windows. Linux Academy and FieldOps are included; Cloud Classroom educator services remain separate.
+DaemonCore Academy 9.0.5 supports x64 Ubuntu and Debian-family desktop systems through an AppImage and a Debian package. Linux shares the Academy curriculum, Mission OS, sealed Docker ranges, FieldOps workspace, local records, evidence exports, and platform contract with Windows. Linux Academy and FieldOps are included; Cloud Classroom educator services remain separate.
 
 ## Supported target
 
-The 9.0.4 Linux release targets x64 Ubuntu and Debian-family desktop systems. The supported package set is the AppImage and Debian package attached to the `v9.0.4` DaemonCore Downloads release. Other distributions may work when they provide compatible Electron and Docker dependencies, but they are outside the tested support matrix.
+The 9.0.5 Linux release targets x64 Ubuntu and Debian-family desktop systems. The supported package set is the AppImage and Debian package attached to the `v9.0.5` DaemonCore Downloads release. Other distributions may work when they provide compatible Electron and Docker dependencies, but they are outside the tested support matrix.
 
 ## Choose a package
 
 Use the AppImage when you want a portable application without a system installation:
 
 ```shell
-chmod +x DaemonCore-Academy-9.0.4.AppImage
-./DaemonCore-Academy-9.0.4.AppImage
+chmod +x DaemonCore-Academy-9.0.5.AppImage
+./DaemonCore-Academy-9.0.5.AppImage
 ```
 
 Use the Debian package on Ubuntu or Debian. It may also install on compatible derivatives such as Kali, but those distributions remain outside the formally tested support matrix:
 
 ```shell
-sudo apt install ./DaemonCore-Academy-9.0.4.deb
+sudo apt install ./DaemonCore-Academy-9.0.5.deb
 ```
 
 The package manager installs a desktop entry and application icon. Removing the package does not remove the current user’s DaemonCore records.

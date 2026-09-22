@@ -27,6 +27,6 @@ These 8.0 materials are retained as an archive. Use the current release notes an
 
 See the [Linux installation and support guide](docs/LINUX.md). Verify the downloaded checksum before launching an installer.
 
-Linux Academy packages remain free. The Windows Academy is distributed through the official Microsoft Store as a $39 one-time purchase with ongoing Academy updates. FieldOps professional features and Cloud Classroom educator features are separate, optional services.
+Linux packages remain free. The Windows Academy is distributed through the official Microsoft Store as a $39 one-time purchase with ongoing Academy and FieldOps updates. Cloud Classroom educator features are a separate, optional service.
 
 For support, contact support@daemoncore.app and include your operating system, app version, and the exact error message. Never send passwords, license secrets, or private keys.

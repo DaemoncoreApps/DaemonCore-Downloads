@@ -1,6 +1,6 @@
 # DaemonCore Academy on Linux
 
-DaemonCore Academy 9.0.4 supports x64 Ubuntu and Debian-family desktop systems through an AppImage and a Debian package. Linux shares the Academy curriculum, Mission OS, sealed Docker ranges, FieldOps workspace, local records, evidence exports, and platform contract with Windows. Linux Academy packages remain free; FieldOps licensing and online educator services remain separate.
+DaemonCore Academy 9.0.4 supports x64 Ubuntu and Debian-family desktop systems through an AppImage and a Debian package. Linux shares the Academy curriculum, Mission OS, sealed Docker ranges, FieldOps workspace, local records, evidence exports, and platform contract with Windows. Linux Academy and FieldOps are included; Cloud Classroom educator services remain separate.
 
 ## Supported target
 
@@ -38,7 +38,7 @@ The application rejects range launch if Docker is missing, stopped, or inaccessi
 
 ## Prepare protected credential storage
 
-Academy works without a keyring. FieldOps activation and operator identity enrollment require an unlocked GNOME Keyring or KWallet backend because they persist a protected licensing key and an Ed25519 private signing key.
+Academy works without a keyring. FieldOps operator identity enrollment requires an unlocked GNOME Keyring or KWallet backend because it persists an Ed25519 private signing key. No FieldOps purchase or activation is required.
 
 For GNOME desktops, confirm that `gnome-keyring` and the Secret Service library are installed and that the login keyring unlocks with the desktop session. KDE users can use KWallet. DaemonCore displays the detected backend in its license snapshot and blocks protected writes if Electron falls back to `basic_text`.
 

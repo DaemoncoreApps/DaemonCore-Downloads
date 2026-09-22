@@ -20,7 +20,7 @@ DaemonCore Academy 9.0.4 is the reliability and desktop-quality release for Wind
 - SHA-256 checksums and the Linux support matrix are published with the release.
 - Academy remains free on Linux.
 - Disposable live ranges require Docker Engine with Compose v2.
-- FieldOps remains a separately licensed professional product.
+- FieldOps is included with Academy; Cloud Classroom educator services remain separate.
 
 ## Product scope
 

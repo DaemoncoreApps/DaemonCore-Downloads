@@ -1,6 +1,6 @@
 # DaemonCore Academy 9.0.4 public release guide
 
-This is the customer-facing installation and support path for DaemonCore Academy 9.0.4. The official Windows edition is a $39 one-time Microsoft Store purchase with ongoing Academy content updates. Linux Academy packages remain free. FieldOps remains a separately licensed professional product.
+This is the customer-facing installation and support path for DaemonCore Academy 9.0.4. The official Windows edition is a $39 one-time Microsoft Store purchase with ongoing Academy content updates. Linux packages remain free. FieldOps is included with Academy; Cloud Classroom educator services remain separate.
 
 ## Choose an install channel
 
@@ -29,7 +29,7 @@ Linux packages are a separate free release asset set. Use an AppImage or Debian 
 1. Start DaemonCore Academy and complete the local operator setup.
 2. Use Academy, Mission OS, Web Forge, Enterprise Forge, and non-classroom features offline after installation.
 3. Docker-backed ranges require a working Docker Engine with Linux containers. The browser preview cannot start local ranges.
-4. FieldOps licensing and Cloud Classroom are optional services. They require network access and a signed-in account; the local Academy remains usable without them.
+4. Cloud Classroom is an optional online educator service. FieldOps is included locally and requires a protected operator identity before operations can run; the local Academy remains usable without network access.
 
 ## Cloud Classroom
 

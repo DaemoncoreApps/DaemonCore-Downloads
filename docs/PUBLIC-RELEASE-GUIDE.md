@@ -49,7 +49,7 @@ When reporting a problem, include:
 
 Do not include passwords, Supabase keys, private student records, or unredacted assessment evidence in a public issue.
 
-## What 9.0.4 does not claim
+## What 9.0.5 does not claim
 
 - The certification page is a readiness preview, not a live credential issuer.
 - Testing Mode is local assessment practice, not remote proctoring.

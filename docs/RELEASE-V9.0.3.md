@@ -22,3 +22,7 @@ DaemonCore Academy 9.0.3 is the current supported Linux release for x64 Ubuntu a
 Before launch, compare the downloaded AppImage or Debian package with `SHA256SUMS-linux.txt` from this release. Use the [Linux support guide](LINUX.md) for installation, Docker, keyring, upgrade, and troubleshooting instructions.
 
 The public Downloads repository contains release installers, checksums, support matrices, and documentation only. The application source repository remains private.
+
+## Documentation
+
+The complete PDF and editable Word guide set is available in the [v9.0.3 documentation directory](releases/v9.0.3/README.md).

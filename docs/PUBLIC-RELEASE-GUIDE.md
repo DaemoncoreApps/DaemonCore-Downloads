@@ -1,6 +1,6 @@
-# DaemonCore Academy 9.0.5 public release guide
+# DaemonCore Academy 10.0.0 public release guide
 
-This is the customer-facing installation and support path for DaemonCore Academy 9.0.5. The official Windows edition is a $39 one-time Microsoft Store purchase with ongoing Academy content updates. Linux packages remain free. FieldOps is included with Academy; Cloud Classroom educator services remain separate.
+This is the customer-facing installation and support path for DaemonCore Academy 10.0.0. The official Windows edition is free to enter through the Microsoft Store; CORE 02 is an optional $9.99 one-time expansion unlocked through Lemon Squeezy. Linux packages include CORE 02 at no charge. FieldOps is included with Academy; Cloud Classroom educator services remain separate.
 
 ## Choose an install channel
 
@@ -49,7 +49,7 @@ When reporting a problem, include:
 
 Do not include passwords, Supabase keys, private student records, or unredacted assessment evidence in a public issue.
 
-## What 9.0.5 does not claim
+## What 10.0.0 does not claim
 
 - The certification page is a readiness preview, not a live credential issuer.
 - Testing Mode is local assessment practice, not remote proctoring.

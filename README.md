@@ -11,6 +11,7 @@ This is the public customer download channel. The application source repository 
 - [SHA-256 checksums](https://github.com/DaemoncoreApps/DaemonCore-Downloads/releases/download/v10.0.0/SHA256SUMS-linux.txt)
 - [Linux support matrix](https://github.com/DaemoncoreApps/DaemonCore-Downloads/releases/download/v10.0.0/LINUX-SUPPORT-MATRIX.txt)
 - [10.0.0 release notes](https://github.com/DaemoncoreApps/DaemonCore-Downloads/releases/download/v10.0.0/RELEASE-V10.0.0.md)
+- [FieldOps V10 capability guide](docs/FIELDOPS-V10.md)
 - [All public releases](https://github.com/DaemoncoreApps/DaemonCore-Downloads/releases)
 
 Windows customers should install the official signed package from the [Microsoft Store](https://apps.microsoft.com/detail/9nh4p6jbs174?hl=en-US&gl=US).

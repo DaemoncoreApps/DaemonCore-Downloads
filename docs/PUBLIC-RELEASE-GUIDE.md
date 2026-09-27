@@ -31,6 +31,8 @@ Linux packages are a separate free release asset set. Use an AppImage or Debian 
 3. Docker-backed ranges require a working Docker Engine with Linux containers. The browser preview cannot start local ranges.
 4. Cloud Classroom is an optional online educator service. FieldOps is included locally and requires a protected operator identity before operations can run; the local Academy remains usable without network access.
 
+For the current FieldOps capability map, authorization boundary, supported integrations, and platform requirements, see the [FieldOps V10 capability guide](FIELDOPS-V10.md).
+
 ## Cloud Classroom
 
 Cloud Classroom is the paid, online instructor/student workspace. An instructor creates an institution and cohort, generates a room enrollment code, publishes assignments, and reviews student submissions. Students create their own account, enter the instructor’s room code, and complete only the work assigned to their cohort.

@@ -2,7 +2,7 @@
 
 DaemonCore Academy is hands-on cybersecurity training: practical lessons, isolated ranges, evidence-based exercises, and a free path for anyone learning security.
 
-This is the public customer download channel. The application source repository is private; this repository contains only release installers, checksums, and support documentation.
+This is the public customer download channel. The application source repository is private; this repository contains only release installers, checksums, and proper support documentation.
 
 ## Download DaemonCore Academy 10.0.0
 

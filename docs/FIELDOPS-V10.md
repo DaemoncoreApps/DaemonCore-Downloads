@@ -8,7 +8,7 @@ FieldOps carries an authorized engagement from preparation through evidence and 
 
 - enrolls a named operator with a device-protected Ed25519 identity;
 - records the client, approving authority, authorization reference, network boundary, exact targets, exact TCP ports, and testing window;
-- creates a signed engagement permit and rechecks that permit before execution;
+- creates a signed engagement permit and rechecks that permit before any execution;
 - resolves authorized hostnames and pins operations to approved addresses;
 - performs DNS, TCP reachability, port, HTTP, TLS, service-profile, web-map, and surface-baseline observations;
 - runs managed Nmap through a local executable or the pinned Docker adapter when available;
